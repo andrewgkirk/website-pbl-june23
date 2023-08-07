@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Andrew Kirk
+title: Andrew Kirk
 
 # Full name (for SEO)
 first_name: Andrew
