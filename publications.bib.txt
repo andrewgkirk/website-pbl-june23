@@ -1,0 +1,2404 @@
+﻿@inproceedings{RN1240,
+   author = {Abumazwed, A. and Kirk, A. G.},
+   title = {Study of Plasmonic Properties of Gold Nanoparticles of Different Shapes with emphasis on Gold Nanopyramids},
+   booktitle = {Photonics North 2012},
+   volume = {8412},
+   ISBN = {0277-786x},
+   DOI = {Artn 84121d
+10.1117/12.2007255},
+   url = {<Go to ISI>://WOS:000331660100047},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1220,
+   author = {Abumazwed, A. and Kirk, A. G.},
+   title = {Plasmonic properties of suspended nanodisc structures for the enhancement of the electric field distributions},
+   booktitle = {Photonics North 2014},
+   volume = {9288},
+   ISBN = {0277-786x},
+   DOI = {Artn 92880z
+10.1117/12.2075317},
+   url = {<Go to ISI>://WOS:000344116400034},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1215,
+   author = {Abumazwed, A. and Kirk, A. G. and Kubo, W. and Tanaka, T.},
+   title = {Numerical and experimental investigation of plasmonic properties of silver nanocrescent structures for sensing applications},
+   booktitle = {Photonic and Phononic Properties of Engineered Nanostructures V},
+   volume = {9371},
+   ISBN = {0277-786x},
+   DOI = {Artn 937127
+10.1117/12.2080562},
+   url = {<Go to ISI>://WOS:000353706000027},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1206,
+   author = {Abumazwed, A. and Kirk, A. G. and Kubo, W. and Tanaka, T.},
+   title = {Towards Accurate Lspr Biosensors Based on the Projection Method: A Direct Measurement for Refractive Index},
+   booktitle = {2017 Photonics North (Pn)},
+   url = {<Go to ISI>://WOS:000425898300044},
+   type = {Conference Proceedings}
+}
+
+@article{RN1207,
+   author = {Abumazwed, A. and Kubo, W. and Shen, C. and Tanaka, T. and Kirk, A. G.},
+   title = {Projection method for improving signal to noise ratio of localized surface plasmon resonance biosensors},
+   journal = {Biomedical Optics Express},
+   volume = {8},
+   number = {1},
+   pages = {446-459},
+   ISSN = {2156-7085},
+   DOI = {10.1364/Boe.8.000446},
+   url = {<Go to ISI>://WOS:000392204700034},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1227,
+   author = {Abumazwed, A. and Kubo, W. and Tanaka, T. and Kirk, A. G.},
+   title = {Study and measurement of plasmonic properties of gold double nanotube structure arrayed on a polymer substrate},
+   booktitle = {2013 Ieee Photonics Conference (Ipc)},
+   pages = {318-319},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000369918000162},
+   type = {Conference Proceedings}
+}
+
+@article{RN1200,
+   author = {Abumazwed, A. and Kubo, W. and Tanaka, T. and Kirk, A. G.},
+   title = {Improved self-referenced biosensing with emphasis on multiple-resonance nanorod sensors},
+   journal = {Optics Express},
+   volume = {25},
+   number = {20},
+   pages = {24803-24815},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.25.024803},
+   url = {<Go to ISI>://WOS:000412048500129},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN1199,
+   author = {Abumazwed, A. and Kubo, W. and Tanaka, T. and Kirk, A. G.},
+   title = {Improved method for estimating adlayer thickness and bulk RI change for gold nanocrescent sensors},
+   journal = {Scientific Reports},
+   volume = {8},
+   ISSN = {2045-2322},
+   DOI = {10.1038/s41598-018-24950-7},
+   url = {<Go to ISI>://WOS:000431003700009},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1228,
+   author = {Abumazwedi, A. and Kubo, W. and Tanaka, T. and Kirk, A. G.},
+   title = {Simulation and experimental studies on plasmonic properties associated with gold nanofin array on a polymer film},
+   booktitle = {2013 Ieee Photonics Conference (Ipc)},
+   pages = {324-325},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000369918000165},
+   type = {Conference Proceedings}
+}
+
+@article{RN1345,
+   author = {Alleyne, C. J. and Kirk, A. G.},
+   title = {Transmission uniformity of diffractive parallel optical interconnect relays: A numerical analysis based on rigorous coupled wave theory},
+   journal = {2002 Ieee/Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {901-902},
+   ISSN = {1092-8081},
+   url = {<Go to ISI>://WOS:000179772700449},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN1316,
+   author = {Alleyne, C. J. and Kirk, A. G.},
+   title = {Rigorous coupled wave analysis applied to transmission efficiency of diffractive beam array relays for free-space optical interconnects},
+   journal = {Applied Optics},
+   volume = {44},
+   number = {7},
+   pages = {1200-1206},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.44.001200},
+   url = {<Go to ISI>://WOS:000227459600012},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1283,
+   author = {Alleyne, C. J. and Kirk, A. G. and Charette, P. G.},
+   title = {High Accuracy Numerical Method for Index of Refraction Estimation with Surface Plasmon Bandgap Structures},
+   journal = {2008 Conference on Lasers and Electro-Optics & Quantum Electronics and Laser Science Conference, Vols 1-9},
+   pages = {3544-+},
+   url = {<Go to ISI>://WOS:000260498401766},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1278,
+   author = {Alleyne, C. J. and Kirk, A. G. and Chien, W. Y. and Charette, P. G.},
+   title = {Numerical method for high accuracy index of refraction estimation for spectro-angular surface plasmon resonance systems},
+   journal = {Optics Express},
+   volume = {16},
+   number = {24},
+   pages = {19493-19503},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.16.019493},
+   url = {<Go to ISI>://WOS:000261561900009},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1309,
+   author = {Alleyne, C. J. and Kirk, A. G. and McPhedran, R. C. and Nicorovici, N. A. and Maystre, D.},
+   title = {Enhanced SPR sensitivity using sinusoidal gratings},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {378-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279140},
+   url = {<Go to ISI>://WOS:000246167900191},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1288,
+   author = {Alleyne, C. J. and Kirk, A. G. and McPhedran, R. C. and Nicorovici, N. A. P. and Maystre, D.},
+   title = {Enhanced SPR sensitivity using periodic metallic structures},
+   journal = {Optics Express},
+   volume = {15},
+   number = {13},
+   pages = {8163-8169},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.15.008163},
+   url = {<Go to ISI>://WOS:000248361200028},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1257,
+   author = {Alleyne, C. J. and Roche, P. J. R. and Filion-Cote, S. and Kirk, A. G.},
+   title = {Analysis of surface plasmon spectro-angular reflectance spectrum: real-time measurement, resolution limits, and applications to biosensing},
+   journal = {Optics Letters},
+   volume = {36},
+   number = {1},
+   pages = {46-48},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.36.000046},
+   url = {<Go to ISI>://WOS:000285921800016},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1273,
+   author = {Alleyne, C. J. and Roche, P. J. R. and Kirk, A. G.},
+   title = {Spectro-Angular Surface Plasmon Biosensor Applied To Drug Binding Assays},
+   journal = {2009 Ieee Leos Annual Meeting Conference Proceedings, Vols 1and 2},
+   pages = {541-542},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2009.5343142},
+   url = {<Go to ISI>://WOS:000279577600278},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1347,
+   author = {Ayliffe, M. H. and Chateauneuf, M. and Rolston, D. R. and Kirk, A. G. and Plant, D. V.},
+   title = {Six-degrees-of-freedom alignment of two-dimensional arrays components by use of off-axis linear Fresnel zone plates},
+   journal = {Applied Optics},
+   volume = {40},
+   number = {35},
+   pages = {6515-6526},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.40.006515},
+   url = {<Go to ISI>://WOS:000172658100010},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1375,
+   author = {Ayliffe, M. H. and Kabal, D. and Khurana, P. and Lacroix, F. and Kirk, A. G. and Tooley, F. A. P. and Plant, D. V.},
+   title = {Optomechanical, electrical and thermal packaging of large 2D optoelectronic device arrays for free-space optical interconnects},
+   journal = {Optics in Computing 98},
+   volume = {3490},
+   pages = {502-505},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.308862},
+   url = {<Go to ISI>://WOS:000074523000120},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1373,
+   author = {Ayliffe, M. H. and Kabal, D. and Lacroix, F. and Bernier, E. and Khurana, P. and Kirk, A. G. and Tooley, F. A. P. and Plant, D. V.},
+   title = {Electrical, thermal and optomechanical packaging of large 2D optoelectronic device arrays for free-space optical interconnects},
+   journal = {Journal of Optics a-Pure and Applied Optics},
+   volume = {1},
+   number = {2},
+   pages = {267-271},
+   ISSN = {1464-4258},
+   DOI = {Doi 10.1088/1464-4258/1/2/029},
+   url = {<Go to ISI>://WOS:000081544200029},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN1350,
+   author = {Ayliffe, M. H. and Rolston, D. R. and Chuah, A. E. L. and Bernier, E. and Michael, F. S. J. and Kabal, D. and Kirk, A. G. and Plant, D. V.},
+   title = {Design and testing of a kinematic package supporting a 32 x 32 array of GaAs MQW modulators flip-chip bonded to a CMOS chip},
+   journal = {Journal of Lightwave Technology},
+   volume = {19},
+   number = {10},
+   pages = {1543-1559},
+   ISSN = {0733-8724},
+   DOI = {Doi 10.1109/50.956142},
+   url = {<Go to ISI>://WOS:000171538300016},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1315,
+   author = {Azana, J. and Lugo, J. E. and Kirk, A. G. and Plant, D. V.},
+   title = {New insights into the problem of shadowlike projection of a plane object illuminated by a spherical wavefront},
+   journal = {Optics Communications},
+   volume = {247},
+   number = {4-6},
+   pages = {257-264},
+   ISSN = {0030-4018},
+   DOI = {10.1016/j.optcom.2004.11.065},
+   url = {<Go to ISI>://WOS:000228112800003},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1311,
+   author = {Bakhtazad, A. and Khorshidahmad, A. and Jugessur, A. S. and Kirk, A. G.},
+   title = {1-D photonic crystal as an anti-reflection layer for first band photonic, crystals},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {835-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279047},
+   url = {<Go to ISI>://WOS:000246167900421},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1332,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {Lens design with planar 1-D photonic crystal},
+   journal = {Applications of Photonic Technology, Closing the Gap between Theory, Development, and Application, Pt 1 and 2},
+   volume = {5577},
+   pages = {598-608},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.567522},
+   url = {<Go to ISI>://WOS:000226463500068},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1334,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {Superprism effect with planar 1-D photonic crystal},
+   journal = {Photonic Crystal Materials and Devices Ii},
+   volume = {5360},
+   pages = {364-372},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.529362},
+   url = {<Go to ISI>://WOS:000223224600041},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1331,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {Weighted index method for planar 1-D photonic crystals},
+   journal = {Photonic Crystal Materials and Devices Ii},
+   volume = {5360},
+   pages = {52-61},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.529375},
+   url = {<Go to ISI>://WOS:000223224600007},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1314,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {1-D slab photonic crystal k-vector superprism demultiplexer: analysis, and design},
+   journal = {Optics Express},
+   volume = {13},
+   number = {14},
+   pages = {5472-5482},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Opex.13.005472},
+   url = {<Go to ISI>://WOS:000230519100034},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1318,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {Design and optimization of 32 channel DWDM demultiplexer using 2-D slab photonic crystal},
+   journal = {2005 IEEE LEOS Annual Meeting Conference Proceedings (LEOS)},
+   pages = {179-180},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2005.1547937},
+   url = {<Go to ISI>://WOS:000235109700092},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1305,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {Stratified photonic crystal demultiplexer},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {839-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279049},
+   url = {<Go to ISI>://WOS:000246167900423},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1289,
+   author = {Bakhtazad, A. and Kirk, A. G.},
+   title = {First-band S-vector photonic-crystal superprism demultiplexer design and optimization},
+   journal = {Journal of Lightwave Technology},
+   volume = {25},
+   number = {5},
+   pages = {1322-1333},
+   ISSN = {0733-8724},
+   DOI = {10.1109/Jlt.2006.886713},
+   url = {<Go to ISI>://WOS:000246411600028},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1361,
+   author = {Basaillon, E. and Yamamoto, T. and Brosseau, D. F. and Bernier, E. and Goodwill, D. and Kirk, A. G. and Plant, D. V.},
+   title = {Optical link for an adaptive redundant free space interconnect},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {999-1009},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386795},
+   url = {<Go to ISI>://WOS:000088745400128},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1368,
+   author = {Bernier, E. and Lacroix, F. and Ayliffe, M. H. and Tooley, F. A. P. and Plant, D. V. and Kirk, A. G.},
+   title = {Implementation of a compact, four-stage, scaleable optical interconnect},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {253-262},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386840},
+   url = {<Go to ISI>://WOS:000088745400034},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1369,
+   author = {Bernier, E. and Popescu, P. and Mony, M. and Bisaillon, E. and Salzberg, M. and Kirk, A. G. and Plant, D. V.},
+   title = {1.25 Gb/s transmitter for an adaptive redundant free-space optical interconnect},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {772-783},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386901},
+   url = {<Go to ISI>://WOS:000088745400102},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1344,
+   author = {Bisaillon, E. and Brosseau, D. F. and Yamamoto, T. and Mony, A. and Bernier, E. and Goodwill, D. and Plant, D. V. and Kirk, A. G.},
+   title = {Free-space optical link with spatial redundancy for misalignment tolerance},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {14},
+   number = {2},
+   pages = {242-244},
+   ISSN = {1041-1135},
+   DOI = {Doi 10.1109/68.980535},
+   url = {<Go to ISI>://WOS:000173534100038},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN1326,
+   author = {Bisaillon, E. and Kirk, A. G.},
+   title = {Modeling techniques for anisotropic diffraction gratings},
+   journal = {Applications of Photonic Technology, Closing the Gap between Theory, Development, and Application, Pt 1 and 2},
+   volume = {5577},
+   pages = {729-739},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.567512},
+   url = {<Go to ISI>://WOS:000226463500083},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1317,
+   author = {Bisaillon, E. and Laniel, J. and Jugessur, A. and Kirk, A. G.},
+   title = {A shallow-etched multilayer grating-based wavelength demultiplexer in SOI},
+   journal = {2005 IEEE LEOS Annual Meeting Conference Proceedings (LEOS)},
+   pages = {595-596},
+   ISSN = {1092-8081},
+   url = {<Go to ISI>://WOS:000235109700301},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1295,
+   author = {Bisaillon, E. and Tan, D. and Faraji, B. and Kirk, A. G. and Chrowstowski, L. and Plant, D. V.},
+   title = {High reflectivity air-bridge subwavelength grating reflector and Fabry-Perot cavity in AlGaAs/GaAs},
+   journal = {Optics Express},
+   volume = {14},
+   number = {7},
+   pages = {2573-2582},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.14.002573},
+   url = {<Go to ISI>://WOS:000236552800003},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1302,
+   author = {Bisaillon, E. and Tan, D. T. H. and Nadeau, M. C. and Chrostowski, L. and Kirk, A. G.},
+   title = {Distributed-grating wavelength demultiplexer in SOI},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {462-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279215},
+   url = {<Go to ISI>://WOS:000246167900233},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1226,
+   author = {Boroojerdi, M. T. and Menard, M. and Kirk, A. G.},
+   title = {Wavelength and Bandwidth Tunable SOI Switch Using Integrated Gratings},
+   booktitle = {2013 Ieee Photonics Conference (Ipc)},
+   pages = {440-441},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000369918000219},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1214,
+   author = {Boroojerdi, M. T. and Menard, M. and Kirk, A. G.},
+   title = {Implementation of Integrated Bandwidth Tunable Optical Add-Drop Filter Using Contra Directional Grating Assisted Couplers},
+   booktitle = {2015 Photonics Conference (Ipc)},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000370968200166},
+   type = {Conference Proceedings}
+}
+
+@article{RN1208,
+   author = {Boroojerdi, M. T. and Menard, M. and Kirk, A. G.},
+   title = {Two-period contra-directional grating assisted coupler},
+   journal = {Optics Express},
+   volume = {24},
+   number = {20},
+   pages = {22865-22874},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.24.022865},
+   url = {<Go to ISI>://WOS:000387543000050},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN1209,
+   author = {Boroojerdi, M. T. and Menard, M. and Kirk, A. G.},
+   title = {Wavelength tunable integrated add-drop filter with 10.6 nm bandwidth adjustability},
+   journal = {Optics Express},
+   volume = {24},
+   number = {19},
+   pages = {22043-22050},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.24.022043},
+   url = {<Go to ISI>://WOS:000387537600074},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1205,
+   author = {Boroojerdi, M. T. and Menard, M. and Kirk, A. G.},
+   title = {Bandwidth Tunable SOI Add-Drop Filter},
+   booktitle = {2017 Conference on Lasers and Electro-Optics (Cleo)},
+   ISBN = {2160-9020},
+   url = {<Go to ISI>://WOS:000427296201168},
+   type = {Conference Proceedings}
+}
+
+@article{RN1359,
+   author = {Brosseau, D. F. and Lacroix, F. and Ayliffe, M. H. and Bernier, E. and Robertson, B. and Tooley, F. A. P. and Plant, D. V. and Kirk, A. G.},
+   title = {Design, implementation, and characterization of a kinematically aligned, cascaded spot-array generator for a modulator-based free-space optical interconnect},
+   journal = {Applied Optics},
+   volume = {39},
+   number = {5},
+   pages = {733-745},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.39.000733},
+   url = {<Go to ISI>://WOS:000085318400009},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1571,
+   author = {Brukner, Ivan and Paliouras, Miltiadis and Trifiro, Mark and Bohbot, Marc and Shamir, Daniel and Kirk, Andrew G.},
+   title = {Assessing Different PCR Master Mixes for Ultrarapid DNA Amplification: Important Analytical Parameters},
+   journal = {Diagnostics},
+   volume = {14},
+   number = {5},
+   pages = {477},
+   ISSN = {2075-4418},
+   url = {https://www.mdpi.com/2075-4418/14/5/477},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN1339,
+   author = {Chateauneuf, M. and Ayliffe, M. H. and Kirk, A. G.},
+   title = {In situ technique for measuring the orthogonality of a plane wave to a substrate},
+   journal = {Optics Letters},
+   volume = {28},
+   number = {9},
+   pages = {677-679},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.28.000677},
+   url = {<Go to ISI>://WOS:000182329700001},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1346,
+   author = {Chateauneuf, M. and Kirk, A. G.},
+   title = {Determination of the optimum cluster parameters for a clustered free-space optical interconnect},
+   journal = {2002 Ieee/Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {899-900},
+   ISSN = {1092-8081},
+   url = {<Go to ISI>://WOS:000179772700448},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN1336,
+   author = {Chateauneuf, M. and Kirk, A. G.},
+   title = {Determination of the optimum cluster parameters in a clustered free-space optical interconnect},
+   journal = {Applied Optics},
+   volume = {42},
+   number = {29},
+   pages = {5906-5917},
+   ISSN = {1559-128x},
+   DOI = {10.1364/Ao.42.005906},
+   url = {<Go to ISI>://WOS:000185928000012},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1324,
+   author = {Chateauneuf, M. and Kirk, A. G.},
+   title = {Six-degrees-of-freedom alignment technique that provides diagnostic misalignment information},
+   journal = {Applied Optics},
+   volume = {43},
+   number = {13},
+   pages = {2689-2694},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.43.002689},
+   url = {<Go to ISI>://WOS:000221093100009},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1342,
+   author = {Chateauneuf, M. and Kirk, A. G. and Plant, D. V. and Yamamoto, T. and Ahearn, J. D.},
+   title = {512-channel vertical-cavity surface-emitting laser based free-space optical link},
+   journal = {Applied Optics},
+   volume = {41},
+   number = {26},
+   pages = {5552-5561},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.41.005552},
+   url = {<Go to ISI>://WOS:000177898300012},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN1365,
+   author = {Chateauneuf, M. and Thomas-Dupuis, F. and Kirk, A. G.},
+   title = {Design, implementation and characterization of a folded spot array generator for a modulator-based free-space optical interconnect},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {263-271},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386841},
+   url = {<Go to ISI>://WOS:000088745400035},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1362,
+   author = {Chateauneuf, M. and Venditti, M. and Laprise, E. and Faucher, J. and Razavi, K. and Thomas-Dupuis, F. and Kirk, A. G. and Plant, D. V. and Yamamoto, T. and Trezza, J. A. and Luo, W.},
+   title = {Design, implementation and characterization of a 2-D bi-directional free-space optical link},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {530-538},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386872},
+   url = {<Go to ISI>://WOS:000088745400066},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1230,
+   author = {Cheema, M. I. and Khan, U. A. and Armani, A. M. and Kirk, A. G.},
+   title = {Application of phase shift ring down spectroscopy to microcavities for biosensing},
+   booktitle = {Nanoscale Imaging, Sensing, and Actuation for Biomedical Applications X},
+   volume = {8594},
+   ISBN = {0277-786x},
+   DOI = {Artn 859401
+10.1117/12.2011779},
+   url = {<Go to ISI>://WOS:000321844500001},
+   type = {Conference Proceedings}
+}
+
+@article{RN1221,
+   author = {Cheema, M. I. and Khan, U. A. and Armani, A. M. and Kirk, A. G.},
+   title = {Towards more accurate microcavity sensors: maximum likelihood estimation applied to a combination of quality factor and wavelength shifts},
+   journal = {Optics Express},
+   volume = {21},
+   number = {19},
+   pages = {22817-22828},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.21.022817},
+   url = {<Go to ISI>://WOS:000325547200103},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN1252,
+   author = {Cheema, M. I. and Kirk, A. G.},
+   title = {Application of ring down measurement approach to micro-cavities for bio-sensing applications},
+   journal = {Frontiers in Biological Detection: From Nanosensors to Systems Iii},
+   volume = {7888},
+   ISSN = {0277-786x},
+   DOI = {Artn 788808
+10.1117/12.874890},
+   url = {<Go to ISI>://WOS:000297595100006},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1223,
+   author = {Cheema, M. I. and Kirk, A. G.},
+   title = {Accurate determination of the quality factor and tunneling distance of axisymmetric resonators for biosensing applications},
+   journal = {Optics Express},
+   volume = {21},
+   number = {7},
+   pages = {8724-8735},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.21.008724},
+   url = {<Go to ISI>://WOS:000317659300087},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN1211,
+   author = {Cheema, M. I. and Kirk, A. G.},
+   title = {Analytical expressions for waveguide-coupled phase shift microcavity ring down spectroscopy},
+   journal = {Journal of the Optical Society of America B-Optical Physics},
+   volume = {32},
+   number = {2},
+   pages = {355-362},
+   ISSN = {0740-3224},
+   DOI = {10.1364/Josab.32.000355},
+   url = {<Go to ISI>://WOS:000349288300024},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN1236,
+   author = {Cheema, M. I. and Mehrabani, S. and Hayat, A. A. and Peter, Y. A. and Armani, A. M. and Kirk, A. G.},
+   title = {Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy},
+   journal = {Optics Express},
+   volume = {20},
+   number = {8},
+   pages = {9090-9098},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.20.009090},
+   url = {<Go to ISI>://WOS:000302855500087},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN1222,
+   author = {Cheema, M. I. and Mehrabani, S. and Hayat, A. A. and Peter, Y. A. and Armani, A. M. and Kirk, A. G.},
+   title = {Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy (vol 20, pg 9090, 2012)},
+   journal = {Optics Express},
+   volume = {21},
+   number = {13},
+   pages = {15430-15431},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.21.015430},
+   url = {<Go to ISI>://WOS:000321288400052},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1244,
+   author = {Cheema, M. I. and Mehrabani, S. and Hayat, A. A. and Vanier, F. and Peter, Y. A. and Armani, A. M. and Kirk, A. G.},
+   title = {Experimental demonstration of application of ring down measurement approach to microcavities for biosensing},
+   booktitle = {Frontiers in Biological Detection: From Nanosensors to Systems Iv},
+   volume = {8212},
+   ISBN = {0277-786x},
+   DOI = {Artn 82120b
+10.1117/12.907422},
+   url = {<Go to ISI>://WOS:000305064900005},
+   type = {Conference Proceedings}
+}
+
+@article{RN1216,
+   author = {Cheema, M. I. and Shi, C. and Armani, A. M. and Kirk, A. G.},
+   title = {Optimizing the Signal to Noise Ratio of Microcavity Sensors},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {26},
+   number = {20},
+   pages = {2023-2026},
+   ISSN = {1041-1135},
+   DOI = {10.1109/Lpt.2014.2344857},
+   url = {<Go to ISI>://WOS:000342850100007},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN1249,
+   author = {Cheung, M. C. K. and Roche, P. J. R. and Hajj-Hassan, M. and Kirk, A. G. and Mi, Z. T. and Chodavarapu, V. P.},
+   title = {Controlling optical properties and surface morphology of dry etched porous silicon (vol 5, 053503, 2011)},
+   journal = {Journal of Nanophotonics},
+   volume = {5},
+   ISSN = {1934-2608},
+   DOI = {Artn 050102
+10.1117/1.3592487},
+   url = {<Go to ISI>://WOS:000290613500001},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1266,
+   author = {Cheung, M. C. K. and Roche, P. J. R. and Yao, L. and Kirk, A. G. and Chodavarapu, V. P.},
+   title = {Enhancement in sensitivity and detection of luminescent quenching based oxygen sensing by gold nanoparticles},
+   journal = {Photonics North 2010},
+   volume = {7750},
+   ISSN = {0277-786x},
+   DOI = {Unsp 775006
+10.1117/12.871036},
+   url = {<Go to ISI>://WOS:000287707900005},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1272,
+   author = {Chien, W. Y. and Khalid, M. Z. and Hoa, X. D. and Kirk, A. G.},
+   title = {Monolithically integrated surface plasmon resonance sensor based on focusing diffractive optic element for optofluidic platforms},
+   journal = {Sensors and Actuators B-Chemical},
+   volume = {138},
+   number = {2},
+   pages = {441-445},
+   ISSN = {0925-4005},
+   DOI = {10.1016/j.snb.2009.02.062},
+   url = {<Go to ISI>://WOS:000265893800008},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1225,
+   author = {Cote, S. F. and Roche, P. J. R. and Kirk, A. G.},
+   title = {Spectro-angular optical biosensor based on surface plasmon resonance operating in the visible spectrum},
+   booktitle = {Plasmonics in Biology and Medicine X},
+   volume = {8597},
+   ISBN = {0277-786x},
+   DOI = {Artn 859711
+10.1117/12.2004583},
+   url = {<Go to ISI>://WOS:000322000500018},
+   type = {Conference Proceedings}
+}
+
+@article{RN1335,
+   author = {Dong, P. and Azana, J. and Kirk, A. G.},
+   title = {Synthesis of fiber Bragg grating parameters from reflectivity by means of a simulated annealing algorithm},
+   journal = {Optics Communications},
+   volume = {228},
+   number = {4-6},
+   pages = {303-308},
+   ISSN = {0030-4018},
+   DOI = {10.1016/j.optcom.2003.10.005},
+   url = {<Go to ISI>://WOS:000186879400012},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1330,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Compact-grating coupler between vertically stacked silicon-oninsulator waveguides},
+   journal = {Optoelectronic Integration on Silicon},
+   volume = {5357},
+   pages = {135-142},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.527965},
+   url = {<Go to ISI>://WOS:000223059100014},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1323,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Nonlinear frequency conversion in waveguide directional couplers},
+   journal = {Physical Review Letters},
+   volume = {93},
+   number = {13},
+   ISSN = {0031-9007},
+   DOI = {ARTN 133901
+10.1103/PhysRevLett.93.133901},
+   url = {<Go to ISI>://WOS:000224131400037},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1333,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Second-order Bragg waveguide grating as a 1D photonic band gap structure in SOI waveguide},
+   journal = {Applications of Photonic Technology, Closing the Gap between Theory, Development, and Application, Pt 1 and 2},
+   volume = {5577},
+   pages = {589-597},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.567374},
+   url = {<Go to ISI>://WOS:000226463500067},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1313,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Compact double-grating coupler between vertically stacked silicon-on-insulator waveguides},
+   journal = {Applied Optics},
+   volume = {44},
+   number = {35},
+   pages = {7540-7547},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.44.007540},
+   url = {<Go to ISI>://WOS:000234012400005},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1322,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Nonlinear frequency conversion in waveguide directional couplers},
+   journal = {Nonlinear Optical Phenomena and Applications},
+   volume = {5646},
+   pages = {191-199},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.576911},
+   url = {<Go to ISI>://WOS:000228294200028},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1321,
+   author = {Dong, P. and Kirk, A. G.},
+   title = {Nonlinear optical harmonic oscillator results in efficient frequency conversion},
+   journal = {2005 Conference on Lasers & Electro-Optics (CLEO), Vols 1-3},
+   pages = {2272-2274},
+   url = {<Go to ISI>://WOS:000234819902245},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1296,
+   author = {Dong, P. and Upham, J. and Jugessur, A. and Kirk, A. G.},
+   title = {Observation of continuous-wave second-harmonic generation in semiconductor waveguide directional couplers},
+   journal = {Optics Express},
+   volume = {14},
+   number = {6},
+   pages = {2256-2262},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.14.002256},
+   url = {<Go to ISI>://WOS:000236202800027},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1201,
+   author = {Filion-Cote, S. and Melaine, F. and Kirk, A. G. and Tabrizian, M.},
+   title = {Monitoring of bacterial film formation and its breakdown with an angular-based surface plasmon resonance biosensor},
+   journal = {Analyst},
+   volume = {142},
+   number = {13},
+   pages = {2386-2394},
+   ISSN = {0003-2654},
+   DOI = {10.1039/c7an00068e},
+   url = {<Go to ISI>://WOS:000404274500011},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN1217,
+   author = {Filion-Cote, S. and Roche, P. J. R. and Foudeh, A. M. and Tabrizian, M. and Kirk, A. G.},
+   title = {Design and analysis of a spectro-angular surface plasmon resonance biosensor operating in the visible spectrum},
+   journal = {Review of Scientific Instruments},
+   volume = {85},
+   number = {9},
+   ISSN = {0034-6748},
+   DOI = {Artn 093107
+10.1063/1.4894655},
+   url = {<Go to ISI>://WOS:000342910500008},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1212,
+   author = {Filion-Cote, S. and Tabrizian, M. and Kirk, A. G.},
+   title = {Surface Plasmon Resonance Biosensor as a Tool for the Measurement of Complex Refractive Indices},
+   booktitle = {2015 37th Annual International Conference of the Ieee Engineering in Medicine and Biology Society (Embc)},
+   pages = {6413-6416},
+   ISBN = {1557-170x},
+   url = {<Go to ISI>://WOS:000371717206168},
+   type = {Conference Proceedings}
+}
+
+@article{RN1202,
+   author = {Filion-Cote, S. and Tabrizian, M. and Kirk, A. G.},
+   title = {Real-time measurement of complex refractive indices with surface plasmon resonance},
+   journal = {Sensors and Actuators B-Chemical},
+   volume = {245},
+   pages = {747-752},
+   DOI = {10.1016/j.snb.2017.02.004},
+   url = {<Go to ISI>://WOS:000398760700088},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN1298,
+   author = {Hoa, X. D. and Kirk, A. G. and Tabrizian, M.},
+   title = {Modelling and implementation of a novel SPR biointerface for time-effective detection of sepsis biomarkers},
+   journal = {2006 International Workshop on Computer Architecture for Machine Perception and Sensing},
+   pages = {30-+},
+   DOI = {Doi 10.1109/Asap.2007.4429954},
+   url = {<Go to ISI>://WOS:000253463900006},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1287,
+   author = {Hoa, X. D. and Kirk, A. G. and Tabrizian, M.},
+   title = {Towards integrated and sensitive surface plasmon resonance biosensors: A review of recent progress},
+   journal = {Biosensors & Bioelectronics},
+   volume = {23},
+   number = {2},
+   pages = {151-160},
+   ISSN = {0956-5663},
+   DOI = {10.1016/j.bios.2007.07.001},
+   url = {<Go to ISI>://WOS:000250187900001},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1271,
+   author = {Hoa, X. D. and Kirk, A. G. and Tabrizian, M.},
+   title = {Enhanced SPR response from patterned immobilization of surface bioreceptors on nano-gratings},
+   journal = {Biosensors & Bioelectronics},
+   volume = {24},
+   number = {10},
+   pages = {3043-3048},
+   ISSN = {0956-5663},
+   DOI = {10.1016/j.bios.2009.03.021},
+   url = {<Go to ISI>://WOS:000267162200016},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1292,
+   author = {Hoa, X. D. and Martin, M. and Jimenez, A. and Beauvais, J. and Charette, P. and Tabrizian, M. and Kirk, A. G.},
+   title = {Patterned immobilisation of quantum dots for enhanced SPR},
+   journal = {2007 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {598-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2007.4382548},
+   url = {<Go to ISI>://WOS:000259345200298},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1312,
+   author = {Hoa, X. D. and Nicorovici, N. A. and McPhedran, R. C. and Botten, L. C. and Kirk, A. G.},
+   title = {Rigorous modal method for the analysis of lamellar metallic gratings for surface plasmon resonance sensing},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {376-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279139},
+   url = {<Go to ISI>://WOS:000246167900190},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1247,
+   author = {Jafari, A. and Kirk, A. G.},
+   title = {Demonstration of Distributed Etched Diffraction Grating Demultiplexer},
+   journal = {Ieee Photonics Journal},
+   volume = {3},
+   number = {4},
+   pages = {651-657},
+   ISSN = {1943-0655},
+   DOI = {10.1109/Jphot.2011.2159582},
+   url = {<Go to ISI>://WOS:000293439600002},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1286,
+   author = {Jafari, R. and Kirk, A. G.},
+   title = {Comparison of three ANSYS finite element tools for analysis of MEMS micromirrors},
+   journal = {Journal of Micro-Nanolithography Mems and Moems},
+   volume = {6},
+   number = {4},
+   ISSN = {1932-5150},
+   DOI = {Artn 043011
+10.1117/1.2804103},
+   url = {<Go to ISI>://WOS:000252985100012},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1297,
+   author = {Jugessur, A. S. and Bakhtazad, A. and Kirk, A. G. and Wu, L. and Krauss, T. F. and De La Rue, R. M.},
+   title = {Compact and integrated 2-D photonic crystal super-prism filter-device for wavelength demultiplexing applications},
+   journal = {Optics Express},
+   volume = {14},
+   number = {4},
+   pages = {1632-1642},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.14.001632},
+   url = {<Go to ISI>://WOS:000235424400035},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1320,
+   author = {Jugessur, A. S. and Bakhtazad, A. and Wu, L. J. and Kirk, A. G. and Krauss, T. F. and De La Rue, R. M.},
+   title = {Integration of a 2-D photonic crystal superprism with 1-D photonic crystal microcavity filters for high channel selectivity},
+   journal = {2005 IEEE LEOS Annual Meeting Conference Proceedings (LEOS)},
+   pages = {183-184},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2005.1547939},
+   url = {<Go to ISI>://WOS:000235109700094},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1218,
+   author = {Karami, S. and Kirk, A. G. and Liboiron-Ladouceur, O.},
+   title = {Efficient method for Long Range Surface Plasmon (LRSPP) wave excitation with Si-based grating couplers},
+   booktitle = {2014 Ieee Photonics Conference (Ipc)},
+   pages = {554-555},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000372323200264},
+   type = {Conference Proceedings}
+}
+
+@article{RN1293,
+   author = {Khalid, Z. and Hoa, X. and Alleyne, C. and Tabrizian, M. and Beauvais, J. and Charette, P. and Nicorovici, N. A. and McPhedran, R. C. and Kirk, A. G.},
+   title = {Integrated surface plasmon resonance sensor with periodic nanostructures for sensitivity enhancement},
+   journal = {Plasmonics in Biology and Medicine Iv},
+   volume = {6450},
+   ISSN = {0277-786x},
+   DOI = {Artn 64500j
+10.1117/12.700619},
+   url = {<Go to ISI>://WOS:000245977900011},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1276,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Analysis of the Composite Superprism Demultiplexer},
+   journal = {2009 Ieee Leos Annual Meeting Conference Proceedings, Vols 1and 2},
+   pages = {707-708},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2009.5343375},
+   url = {<Go to ISI>://WOS:000279577600361},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1275,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Nested Photonic Crystal Cavity for On-chip Wavelength Conversion},
+   journal = {2009 Ieee/Leos Winter Topicals Meeting Series (Wtm 2009)},
+   pages = {58-59},
+   url = {<Go to ISI>://WOS:000267006500029},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1269,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Wavelength conversion by interband transition in a double heterostructure photonic crystal cavity},
+   journal = {Optics Letters},
+   volume = {34},
+   number = {19},
+   pages = {3035-3037},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.34.003035},
+   url = {<Go to ISI>://WOS:000270366800053},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1277,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Wavelength Conversion by Interband Transition in a Nested Photonic Crystal Cavity},
+   journal = {2009 Ieee Leos Annual Meeting Conference Proceedings, Vols 1and 2},
+   pages = {36-37},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2009.5343483},
+   url = {<Go to ISI>://WOS:000279577600019},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1261,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Composite superprism photonic crystal demultiplexer: analysis and design},
+   journal = {Optics Express},
+   volume = {18},
+   number = {19},
+   pages = {20518-20528},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.18.020518},
+   url = {<Go to ISI>://WOS:000285263500033},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1267,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Multi-wavelength Generation via a Heterostructure Cavity Embedded in a Photonic Crystal Ring},
+   journal = {2010 23rd Annual Meeting of the Ieee Photonics Society},
+   pages = {413-414},
+   DOI = {Doi 10.1109/Photonics.2010.5698935},
+   url = {<Go to ISI>://WOS:000287997500208},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1263,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Nested Photonic Crystal Cavity for On-Chip Wavelength Conversion},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {22},
+   number = {10},
+   pages = {679-681},
+   ISSN = {1041-1135},
+   DOI = {10.1109/Lpt.2010.2043945},
+   url = {<Go to ISI>://WOS:000276815600001},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1264,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Wavelength conversion by dynamically reconfiguring a nested photonic crystal cavity},
+   journal = {Optics Express},
+   volume = {18},
+   number = {8},
+   pages = {7732-7742},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.18.007732},
+   url = {<Go to ISI>://WOS:000276610300020},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1237,
+   author = {Khorshidahmad, A. and Kirk, A. G.},
+   title = {Reflective Heterostructure Photonic Crystal Superprism Demultiplexer},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {24},
+   number = {4},
+   pages = {303-305},
+   ISSN = {1041-1135},
+   DOI = {10.1109/Lpt.2011.2177817},
+   url = {<Go to ISI>://WOS:000299816300004},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inbook{RN1576,
+   author = {Kirk, Andrew},
+   title = {Plasmonic Nanostructures for Sensing},
+   booktitle = {Encyclopedia of Materials: Electronics},
+   editor = {Haseeb, A. S. M. A.},
+   publisher = {Academic Press},
+   address = {Oxford},
+   pages = {176-192},
+   ISBN = {978-0-12-819735-6},
+   DOI = {https://doi.org/10.1016/B978-0-12-819728-8.00011-5},
+   url = {https://www.sciencedirect.com/science/article/pii/B9780128197288000115},
+   year = {2023},
+   type = {Book Section}
+}
+
+@article{RN1352,
+   author = {Kirk, A. G.},
+   title = {Recent developments in parallel optical interconnects},
+   journal = {Photonics 2000: International Conference on Fiber Optics and Photonics},
+   volume = {4417},
+   pages = {206-213},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.441296},
+   url = {<Go to ISI>://WOS:000172545900024},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1301,
+   author = {Kirk, A. G.},
+   title = {Free-space optical interconnects},
+   journal = {Optical Interconnects: The Silicon Approach},
+   pages = {343-377},
+   ISSN = {0342-4111},
+   url = {<Go to ISI>://WOS:000236885800013},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1329,
+   author = {Kirk, A. G. and Bakhtazad, A.},
+   title = {Dispersion optimization of a 1-D superprism based on phase velocities},
+   journal = {2004 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {879-880},
+   ISSN = {1092-8081},
+   url = {<Go to ISI>://WOS:000225390900438},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1377,
+   author = {Kirk, A. G. and Brosseau, D. F. and Lacroix, F. K. and Bernier, E. and Ayliffe, M. H. and Robertson, B. and Tooley, F. A. P. and Plant, D. V.},
+   title = {Design and implementation of a two-stage optical power supply spot array generator for a modulator-based free-space interconnect},
+   journal = {Optics in Computing 98},
+   volume = {3490},
+   pages = {48-51},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.308853},
+   url = {<Go to ISI>://WOS:000074523000011},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1341,
+   author = {Kirk, A. G. and Chateauneuf, M.},
+   title = {Optical design choices for VCSEL-based free-space optical interconnects},
+   journal = {Vcsels and Optical Interconnects},
+   volume = {4942},
+   pages = {313-323},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.471908},
+   url = {<Go to ISI>://WOS:000182719600032},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1328,
+   author = {Kirk, A. G. and Menard, M. and Dong, P. and Bisaillon, E.},
+   title = {Integration strategies for micro-optical systems},
+   journal = {Micro-Optics, Vcsels, and Photonic Interconnects},
+   volume = {5453},
+   pages = {83-88},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.554942},
+   url = {<Go to ISI>://WOS:000224368500008},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1353,
+   author = {Kirk, A. G. and Plant, D. V.},
+   title = {Recent developments in parallel optical interconnects},
+   journal = {Micro- and Nano-Optics for Optical Interconnection and Information Processing},
+   volume = {4455},
+   pages = {198-208},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.450428},
+   url = {<Go to ISI>://WOS:000174909600022},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1340,
+   author = {Kirk, A. G. and Plant, D. V. and Ayliffe, M. H. and Chateauneuf, M. and Lacroix, F.},
+   title = {Design rules for highly parallel free-space optical interconnects},
+   journal = {Ieee Journal of Selected Topics in Quantum Electronics},
+   volume = {9},
+   number = {2},
+   pages = {531-547},
+   ISSN = {1077-260x},
+   DOI = {10.1109/Jstqe.2003.812482},
+   url = {<Go to ISI>://WOS:000186135100046},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1282,
+   author = {Kirk, A. G. and Plant, D. V. and Menard, M.},
+   title = {A comparison of beam deflection electro-optic switches},
+   journal = {2008 International Conference on Photonics in Switching},
+   pages = {6-7},
+   ISSN = {2155-8515},
+   url = {<Go to ISI>://WOS:000266975800004},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1338,
+   author = {Kirk, A. G. and Plant, D. V. and Szymanski, T. H. and Vranesic, Z. G. and Tooley, F. A. P. and Rolston, D. R. and Ayliffe, M. H. and Lacroix, F. K. and Robertson, B. and Bernier, E. and Brosseau, D. F.},
+   title = {Design and implementation of a modulator-based free-space optical backplane for multiprocessor applications},
+   journal = {Applied Optics},
+   volume = {42},
+   number = {14},
+   pages = {2465-2481},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.42.002465},
+   url = {<Go to ISI>://WOS:000182734900001},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1364,
+   author = {Kirk, A. G. and Plant, D. V. and Szymanski, T. H. and Vranesic, Z. G. and Trezza, J. A. and Tooley, F. A. P. and Rolston, D. R. and Ayliffe, M. H. and Lacroix, F. and Kabal, D. and Robertson, B. and Bernier, E. and Brosseau, D. F. and Michael, F. S. J. and Chuah, E. L.},
+   title = {A modulator-based multistage free-space optical interconnection system},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {449-459},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386862},
+   url = {<Go to ISI>://WOS:000088745400056},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1355,
+   author = {Lacroix, F. and Ayliffe, M. H. and Kirk, A. G.},
+   title = {Tolerancing of polarization losses in free-space optical interconnects.},
+   journal = {Optics Express},
+   volume = {7},
+   number = {12},
+   pages = {381-394},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.7.000381},
+   url = {<Go to ISI>://WOS:000165628900001},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1343,
+   author = {Lacroix, F. and Bernier, E. and Ayliffe, M. H. and Tooley, F. A. P. and Plant, D. V. and Kirk, A. G.},
+   title = {Implementation of a compact, four-stage, scalable optical interconnect for photonic backplane applications},
+   journal = {Applied Optics},
+   volume = {41},
+   number = {8},
+   pages = {1541-1555},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.41.001541},
+   url = {<Go to ISI>://WOS:000174409900007},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN1374,
+   author = {Lacroix, F. and Chateauneuf, M. and Xue, X. and Kirk, A. G.},
+   title = {Experimental and numerical study of misalignment tolerances in clustered free-space optical interconnects},
+   journal = {Optics in Computing, Technical Digest},
+   pages = {136-138},
+   url = {<Go to ISI>://WOS:000174272000039},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN1358,
+   author = {Lacroix, F. and Chateauneuf, M. and Xue, X. and Kirk, A. G.},
+   title = {Experimental and numerical analyses of misalignment tolerances in free-space optical interconnects},
+   journal = {Applied Optics},
+   volume = {39},
+   number = {5},
+   pages = {704-713},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.39.000704},
+   url = {<Go to ISI>://WOS:000085318400006},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1372,
+   author = {Lacroix, F. and Kirk, A. G.},
+   title = {Tolerance stackup effects in optical interconnect systems.},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {896-904},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386783},
+   url = {<Go to ISI>://WOS:000088745400117},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1349,
+   author = {Lacroix, F. and Kirk, A. G.},
+   title = {Tolerance stackup effects in free-space optical interconnects},
+   journal = {Applied Optics},
+   volume = {40},
+   number = {29},
+   pages = {5240-5247},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.40.005240},
+   url = {<Go to ISI>://WOS:000171406500011},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1376,
+   author = {Lacroix, F. and Robertson, B. and Ayliffe, M. H. and Bernier, E. and Tooley, F. A. P. and Chateauneuf, M. and Plant, D. V. and Kirk, A. G.},
+   title = {Design and implementation of a four-stage clustered free-space optical interconnect},
+   journal = {Optics in Computing 98},
+   volume = {3490},
+   pages = {107-110},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.308897},
+   url = {<Go to ISI>://WOS:000074523000024},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1354,
+   author = {Lin, J. E. and Michael, F. S. J. and Kirk, A. G.},
+   title = {Investigation of improved designs for rotational micromirrors using multi-user MEMS processes},
+   journal = {Mems Design, Fabrication, Characterization, and Packaging},
+   volume = {4407},
+   pages = {202-213},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.425303},
+   url = {<Go to ISI>://WOS:000171644100024},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1291,
+   author = {Lugo, J. E. and Ocampo, M. and Kirk, A. G. and Plant, D. V. and Fauchet, P. M.},
+   title = {Electrochemical sensing of DNA with porous silicon layers},
+   journal = {Journal of New Materials for Electrochemical Systems},
+   volume = {10},
+   number = {2},
+   pages = {113-116},
+   ISSN = {1480-2422},
+   url = {<Go to ISI>://WOS:000245934800009},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1381,
+   author = {M.Tran and P.Mohammadyousef and M.Paliouras and M.Trifiro and A.G.Kirk},
+   title = {Real-time fluorophore-free optical monitoring of ultrafast DNA amplification for qPCR},
+   booktitle = {2nd European Biosensor Symposium},
+   type = {Conference Proceedings}
+}
+
+@article{RN1360,
+   author = {Maj, T. and Kirk, A. G. and Plant, D. V. and Ahadian, J. F. and Fonstad, C. G. and Lear, K. L. and Tatah, K. and Robinson, M. S. and Trezza, J. A.},
+   title = {Interconnection of a two-dimensional array of vertical-cavity surface-emitting lasers to a receiver array by means of a fiber image guide},
+   journal = {Applied Optics},
+   volume = {39},
+   number = {5},
+   pages = {683-689},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.39.000683},
+   url = {<Go to ISI>://WOS:000085318400003},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1290,
+   author = {Malic, L. and Kirk, A. G.},
+   title = {Integrated miniaturized optical detection platform for fluorescence and absorption spectroscopy},
+   journal = {Sensors and Actuators a-Physical},
+   volume = {135},
+   number = {2},
+   pages = {515-524},
+   ISSN = {0924-4247},
+   DOI = {10.1016/j.sna.2006.09.021},
+   url = {<Go to ISI>://WOS:000246193700028},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1284,
+   author = {Menard, M. and Kirk, A. G.},
+   title = {Assessment of integration of off-axis Fresnel lenses into a free-space interconnect},
+   journal = {Applied Optics},
+   volume = {46},
+   number = {30},
+   pages = {7500-7505},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.46.007500},
+   url = {<Go to ISI>://WOS:000251047200021},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1281,
+   author = {Menard, M. and Kirk, A. G.},
+   title = {Broadband Integrated Fabry-Perot Electro-Optic Switch},
+   journal = {2008 International Conference on Photonics in Switching},
+   pages = {82-83},
+   ISSN = {2155-8515},
+   url = {<Go to ISI>://WOS:000266975800042},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1270,
+   author = {Menard, M. and Kirk, A. G.},
+   title = {Design of Fabry-Perot filters in planar waveguides with deep-etched features for spatial switching},
+   journal = {Optics Express},
+   volume = {17},
+   number = {20},
+   pages = {17614-17629},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.17.017614},
+   url = {<Go to ISI>://WOS:000270295300040},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1274,
+   author = {Menard, M. and Kirk, A. G.},
+   title = {Integrated Fabry-Perot Comb Switches: Transmission Experiments and Scalability},
+   journal = {2009 Ieee Leos Annual Meeting Conference Proceedings, Vols 1and 2},
+   pages = {581-582},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2009.5343122},
+   url = {<Go to ISI>://WOS:000279577600298},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1265,
+   author = {Menard, M. and Kirk, A. G.},
+   title = {Integrated Fabry-Perot Comb Filters for Optical Space Switching},
+   journal = {Journal of Lightwave Technology},
+   volume = {28},
+   number = {5},
+   pages = {768-775},
+   ISSN = {0733-8724},
+   DOI = {10.1109/Jlt.2010.2041427},
+   url = {<Go to ISI>://WOS:000275710800002},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1310,
+   author = {Menard, M. and Thomas-Dupuis, F. and Kirk, A. G.},
+   title = {One-dimensional to two-dimensional channel formatting with micro-optics for wavelength division multiplexing networks},
+   journal = {Applied Optics},
+   volume = {45},
+   number = {1},
+   pages = {122-130},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.45.000122},
+   url = {<Go to ISI>://WOS:000234553600017},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1229,
+   author = {Mi, Z. and Dastjerdi, M. H. T. and Bianucci, P. and Tian, Z. and Zhong, Q. and Veerasubramanian, V. and Poole, P. J. and Kirk, A. G. and Plant, D. V.},
+   title = {Rolled-up 1.5 mu m InAs Quantum Dot Tube Lasers and Integrated Nanophotonic},
+   booktitle = {2013 Ieee Photonics Society Summer Topical Meeting Series},
+   pages = {34-+},
+   url = {<Go to ISI>://WOS:000333963600017},
+   type = {Conference Proceedings}
+}
+
+@article{RN1254,
+   author = {Mi, Z. T. and Bianucci, P. and Dastjerdi, M. H. T. and Mukherjee, S. and Tian, Z. B. and Veerasubramanian, V. and Kirk, A. G. and Plant, D. V.},
+   title = {1.3-1.55 mu m Self-Organized InAs Quantum Dot Tube Nanoscale Lasers on Silicon},
+   journal = {2011 Ieee Photonics Conference (Pho)},
+   pages = {535-536},
+   url = {<Go to ISI>://WOS:000299750700268},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1259,
+   author = {Mi, Z. T. and Bianucci, P. and Li, F. and Tian, Z. B. and Veerasubramanian, V. and Kirk, A. G. and Plant, D. V. and Poole, P. J.},
+   title = {Self-organized InAs quantum dot tube lasers and integrated optoelectronics on Si},
+   booktitle = {Silicon Photonics Vi},
+   volume = {7943},
+   ISBN = {0277-786x},
+   DOI = {Unsp 79431c
+10.1117/12.876172},
+   url = {<Go to ISI>://WOS:000298190900039},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1380,
+   author = {Mohammadyousef, P. and Paliouras, M. and Trifiro, M. and Kirk, A. G.},
+   title = {Ultrafast plasmonic and real-time label-free polymerase chain reaction},
+   booktitle = {Label-free Biomedical Imaging and Sensing (LBIS) 2020},
+   publisher = {SPIE},
+   volume = {11251},
+   type = {Conference Proceedings}
+}
+
+@article{RN1575,
+   author = {Mohammadyousef, P. and Paliouras, M. and Trifiro, M. A. and Kirk, A. G.},
+   title = {Plasmonic and label-free real-time quantitative PCR for point-of-care diagnostics},
+   journal = {Analyst},
+   volume = {146},
+   number = {18},
+   pages = {5619-5630},
+   ISSN = {0003-2654},
+   DOI = {10.1039/d0an02496a},
+   url = {<Go to ISI>://WOS:000683492900001},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1379,
+   author = {Mohammadyousef, P. and Uchehara, G. and Paliouras, M. and Trifiro, M. and Kirk, A. G.},
+   title = {Ultrafast VCSEL-based Plasmonic Polymerase Chain Reaction with Real-time Label-free Amplicon Detection for Point-Of-Care Diagnostics},
+   booktitle = {Plasmonics in Biology and Medicine XVII},
+   publisher = {SPIE},
+   volume = {11257},
+   type = {Conference Proceedings}
+}
+
+@article{RN1367,
+   author = {Mony, M. and Salzberg, M. and Popescu, P. and Bernier, E. and Bisaillon, E. and Plant, D. V. and Kirk, A. G.},
+   title = {1Gb/s, 9x1 optical receiver array, for an adaptive redundant interconnect system, using NT25 technology},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {1010-1020},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386796},
+   url = {<Go to ISI>://WOS:000088745400129},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1573,
+   author = {Motavas, M. H. and Perrier, T. and Kirk, A. G. and Ieee},
+   title = {Evaluation of requirements for phase-shift cavity ring-down spectroscopy biosensing using integrated microring resonators},
+   booktitle = {Annual Conference of the IEEE-Photonics-Society (IPC)},
+   series = {IEEE Photonics Conference},
+   ISBN = {979-8-3503-4722-7},
+   DOI = {10.1109/ipc57732.2023.10360596},
+   url = {<Go to ISI>://WOS:001156890300098},
+   year = {2023},
+   type = {Conference Proceedings}
+}
+
+@book{RN1378,
+   author = {Najih, Mohamed and Gamal, Rania and Kirk, Andrew},
+   title = {Do you need a tunable laser for resonant cavity optical sensors?},
+   publisher = {SPIE},
+   volume = {11028},
+   series = {SPIE Optics + Optoelectronics},
+   url = {https://doi.org/10.1117/12.2522352},
+   year = {2019},
+   type = {Book}
+}
+
+@inproceedings{RN1574,
+   author = {Oudjedi, F. and Lee, S. S. and Paliouras, M. and Trifiro, M. and Kirk, A.},
+   title = {Gold nanorod-decorated multiwalled carbon nanotubes for near-infrared photothermal therapy},
+   booktitle = {Conference on Plasmonics in Biology and Medicine XIX},
+   series = {Proceedings of SPIE},
+   volume = {11978},
+   ISBN = {978-1-5106-4828-9; 978-1-5106-4827-2},
+   DOI = {10.1117/12.2608307},
+   url = {<Go to ISI>://WOS:000832047700008},
+   year = {2022},
+   type = {Conference Proceedings}
+}
+
+@article{RN1363,
+   author = {Plant, D. V. and Bernier, E. and Bisaillon, E. and Mony, M. and Salzberg, M. and Yamamoto, T. and Goodwill, D. J. and Kirk, A. G.},
+   title = {A 5 Gb/s, 2 channel bi-directional adaptive redundant FSOI demonstrator system},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {465-472},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386864},
+   url = {<Go to ISI>://WOS:000088745400058},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1357,
+   author = {Plant, D. V. and Kirk, A. G.},
+   title = {Optical interconnects at the chip and board level: Challenges and solutions},
+   journal = {Proceedings of the Ieee},
+   volume = {88},
+   number = {6},
+   pages = {806-818},
+   ISSN = {0018-9219},
+   DOI = {Doi 10.1109/5.867694},
+   url = {<Go to ISI>://WOS:000089369400009},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1319,
+   author = {Plant, D. V. and Kirk, A. G.},
+   title = {Design rules for high speed, low power optoelectronic-VLSI (OE-VLSI) circuits and systems},
+   journal = {Optoelectronic Integration on Silicon II},
+   volume = {5730},
+   pages = {73-79},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.593789},
+   url = {<Go to ISI>://WOS:000228898800007},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1306,
+   author = {Plant, D. V. and Kirk, A. G. and Chen, L. R. and Rochette, M.},
+   title = {Research activities in the McGill University photonic systems group},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {3-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.278775},
+   url = {<Go to ISI>://WOS:000246167900002},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1370,
+   author = {Plant, D. V. and Trezza, J. A. and Venditti, M. B. and Laprise, E. and Faucher, J. and Razavi, K. and Chateauneuf, M. and Kirk, A. G. and Luo, W.},
+   title = {A 256 channel bi-directional optical interconnect using VCSELs and photodiodes on CMOS},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {1044-1054},
+   ISSN = {0277-786x},
+   url = {<Go to ISI>://WOS:000088745400134},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1351,
+   author = {Plant, D. V. and Venditti, M. B. and Laprise, E. and Faucher, J. and Razavi, K. and Chateauneuf, M. and Kirk, A. G. and Ahearn, J. S.},
+   title = {256-channel bidirectional optical interconnect using VCSELs and photodiodes on CMOS},
+   journal = {Journal of Lightwave Technology},
+   volume = {19},
+   number = {8},
+   pages = {1093-1103},
+   ISSN = {0733-8724},
+   DOI = {Doi 10.1109/50.939788},
+   url = {<Go to ISI>://WOS:000170381700004},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN1239,
+   author = {Roche, P. J. R. and Beitel, L. K. and Khan, R. and Lumbroso, R. and Najih, M. and Cheung, M. C. K. and Thiemann, J. and Veerasubramanian, V. and Trifiro, M. and Chodavarapu, V. P. and Kirk, A. G.},
+   title = {Demonstration of a plasmonic thermocycler for the amplification of human androgen receptor DNA},
+   journal = {Analyst},
+   volume = {137},
+   number = {19},
+   pages = {4475-4481},
+   ISSN = {0003-2654},
+   DOI = {10.1039/c2an35692a},
+   url = {<Go to ISI>://WOS:000308099200016},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1250,
+   author = {Roche, P. J. R. and Cheung, M. C. and Wang, S. Z. and Banan, B. and Chodavarapu, V. P. and Kirk, A. G.},
+   title = {Demonstration of a reusable plasmonic polymer microarray sensing platform},
+   booktitle = {Nanoscale Imaging, Sensing, and Actuation for Biomedical Applications Vii},
+   volume = {7908},
+   ISBN = {0277-786x},
+   DOI = {Artn 79080p
+10.1117/12.878848},
+   url = {<Go to ISI>://WOS:000297728100017},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1243,
+   author = {Roche, P. J. R. and Cheung, M. C. K. and Beitel, L. and Trifiro, M. A. and Chodavarapu, V. P. and Kirk, A. G.},
+   title = {Optical mapping by low-cost instrumentation and disposable chemically induced nanochannels},
+   booktitle = {Nanoscale Imaging, Sensing, and Actuation for Biomedical Applications Viii},
+   volume = {8231},
+   ISBN = {0277-786x},
+   DOI = {Artn 82310j
+10.1117/12.910138},
+   url = {<Go to ISI>://WOS:000305608100009},
+   type = {Conference Proceedings}
+}
+
+@article{RN1235,
+   author = {Roche, P. J. R. and Cheung, M. C. K. and Filion-Cote, S. and Milette, J. and Gonzalez, T. and Gopalakrishnan, G. and Andrews, M. P. and Lennox, B. R. and Reven, L. and Kirk, A. G.},
+   title = {Characterisation of a Gold Nanorod Sol-Gel Utilising Inter-particle Coupling to Yield High Refractive Index Sensitivity},
+   journal = {Plasmonics},
+   volume = {7},
+   number = {2},
+   pages = {331-339},
+   ISSN = {1557-1955},
+   DOI = {10.1007/s11468-011-9311-7},
+   url = {<Go to ISI>://WOS:000305986300020},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1245,
+   author = {Roche, P. J. R. and Cheung, M. C. K. and Najih, M. and McCall, L. I. and Fakih, I. and Chodavarapu, V. P. and Ward, B. and Ndao, M. and Kirk, A. G.},
+   title = {A study of a self diagnostic platform for the detection of A2 biomarker for Leishmania donovani},
+   booktitle = {Optical Diagnostics and Sensing Xii: Toward Point-of-Care Diagnostics and Design and Performance Validation of Phantoms Used in Conjunction with Optical Measurement of Tissue Iv},
+   volume = {8229},
+   ISBN = {0277-786x},
+   DOI = {Artn 82290c
+10.1117/12.910146},
+   url = {<Go to ISI>://WOS:000301419300011},
+   type = {Conference Proceedings}
+}
+
+@article{RN1260,
+   author = {Roche, P. J. R. and Cheung, M. C. K. and Yao, L. and Kirk, A. G. and Chodavarapu, V. P.},
+   title = {Enhancement of luminescent quenching-based oxygen sensing by gold nanoparticles: comparison between luminophore:matrix:nanoparticle thin films on glass and gold coated substrates},
+   journal = {Journal of Nanophotonics},
+   volume = {4},
+   ISSN = {1934-2608},
+   DOI = {Artn 043521
+10.1117/1.3526729},
+   url = {<Go to ISI>://WOS:000286060400001},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1262,
+   author = {Roche, P. J. R. and Cheung, M. C. K. and Yung, K. Y. and Kirk, A. G. and Chodavarpu, V. P. and Bright, F. V.},
+   title = {Application of gold quenching of luminescence to improve oxygen sensing using a ruthenium (4,7-diphenyl-1,10-phenanthroline)(3)Cl-2:TEOS thin film},
+   journal = {Sensors and Actuators B-Chemical},
+   volume = {147},
+   number = {2},
+   pages = {581-586},
+   ISSN = {0925-4005},
+   DOI = {10.1016/j.snb.2010.03.035},
+   url = {<Go to ISI>://WOS:000278679100030},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1255,
+   author = {Roche, P. J. R. and Filion-Cote, S. and Cheung, M. C. K. and Chodavarapu, V. P. and Kirk, A. G.},
+   title = {A Camera Phone Localised Surface Plasmon Biosensing Platform towards Low-Cost Label-Free Diagnostic Testing},
+   journal = {Journal of Sensors},
+   ISSN = {1687-725x},
+   DOI = {Artn 406425
+10.1155/2011/406425},
+   url = {<Go to ISI>://WOS:000208864900011},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1203,
+   author = {Roche, P. J. R. and Najih, M. and Lee, S. S. and Beitel, L. K. and Carnevale, M. L. and Paliouras, M. and Kirk, A. G. and Trifiro, M. A.},
+   title = {Real time plasmonic qPCR: how fast is ultra-fast? 30 cycles in 54 seconds},
+   journal = {Analyst},
+   volume = {142},
+   number = {10},
+   pages = {1746-1755},
+   ISSN = {0003-2654},
+   DOI = {10.1039/c7an00304h},
+   url = {<Go to ISI>://WOS:000401526100013},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1242,
+   author = {Roche, P. J. R. and Wang, S. Z. and Cheung, M. C. K. and Chodavarapu, V. P. and Kirk, A. G.},
+   title = {A Nanorod Polymer Micro-array formed by Micro-Contact Printing},
+   booktitle = {Nanoscale Imaging, Sensing, and Actuation for Biomedical Applications Viii},
+   volume = {8231},
+   ISBN = {0277-786x},
+   DOI = {Artn 82310o
+10.1117/12.910142},
+   url = {<Go to ISI>://WOS:000305608100012},
+   type = {Conference Proceedings}
+}
+
+@article{RN1327,
+   author = {Shapoorabadi, R. J. and Kirk, A. G.},
+   title = {Comparison of three finite element models for analysis of MEMS micromirrors},
+   journal = {Applications of Photonic Technology, Closing the Gap between Theory, Development, and Application, Pt 1 and 2},
+   volume = {5577},
+   pages = {849-860},
+   ISSN = {0277-786x},
+   DOI = {10.1117/12.567568},
+   url = {<Go to ISI>://WOS:000226463500097},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1300,
+   author = {Simard, M. and Khalid, Z. and Kirk, A. G.},
+   title = {Digital optical space switch based on micromotor grating scanners},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {18},
+   number = {1-4},
+   pages = {313-315},
+   ISSN = {1041-1135},
+   DOI = {10.1109/Lpt.2005.860374},
+   url = {<Go to ISI>://WOS:000235899300103},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1241,
+   author = {Soltani, F. and Kirk, A. G.},
+   title = {A Comparison of Switching Energy of Resonant and Non-resonant Electro-optic Switches},
+   booktitle = {Photonics North 2012},
+   volume = {8412},
+   ISBN = {0277-786x},
+   DOI = {Artn 841222
+10.1117/12.2001326},
+   url = {<Go to ISI>://WOS:000331660100072},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1213,
+   author = {Soltani, F. and Menard, M. and Kirk, A. G.},
+   title = {Optical Modulator with an Integrated Loop Mirror},
+   booktitle = {2015 Ieee Optical Interconnects Conference},
+   pages = {100-101},
+   ISBN = {2376-8665},
+   url = {<Go to ISI>://WOS:000380561600039},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1204,
+   author = {Soltani, F. and Menard, M. and Kirk, A. G.},
+   title = {Integrated silicon photonic reflective modulator for passive optical networks},
+   booktitle = {2017 Conference on Lasers and Electro-Optics (Cleo)},
+   ISBN = {2160-9020},
+   url = {<Go to ISI>://WOS:000427296201492},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1210,
+   author = {Soltani, F. and Patel, D. and Menard, M. and Plant, D. V. and Kirk, A. G.},
+   title = {Low-power DPSK modulation at 10 Gbps using a silicon photonic loop mirror modulator},
+   booktitle = {2016 Ieee Photonics Conference (Ipc)},
+   pages = {619-620},
+   ISBN = {2374-0140},
+   url = {<Go to ISI>://WOS:000406880100285},
+   type = {Conference Proceedings}
+}
+
+@article{RN1197,
+   author = {Soltani, F. and Patel, D. and Menard, M. and Plant, D. V. and Kirk, A. G.},
+   title = {DPSK Modulation With a Dual-Drive Silicon Photonic Loop-Mirror Modulator},
+   journal = {Ieee Photonics Technology Letters},
+   volume = {31},
+   number = {13},
+   pages = {1037-1040},
+   ISSN = {1041-1135},
+   DOI = {10.1109/Lpt.2019.2917022},
+   url = {<Go to ISI>://WOS:000471704700011},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1304,
+   author = {Sun, G. and Kirk, A. G.},
+   title = {Pseudo-interference and its application in determining averaged phase refractive index of photonic crystals},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {841-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279050},
+   url = {<Go to ISI>://WOS:000246167900424},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1285,
+   author = {Sun, G. and Kirk, A. G.},
+   title = {On the relationship between Bloch modes and phase-related refractive index of photonic crystals},
+   journal = {Optics Express},
+   volume = {15},
+   number = {20},
+   pages = {13149-13154},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.15.013149},
+   url = {<Go to ISI>://WOS:000250006700060},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1299,
+   author = {Sun, G. L. and Bakhtazad, A. and Jugessur, A. and Kirk, A. G.},
+   title = {Open cavities using photonic crystals with negative refraction},
+   journal = {Photonics North 2006, Pts 1 and 2},
+   volume = {6343},
+   ISSN = {0277-786x},
+   DOI = {Artn 63433m
+10.1117/12.708026},
+   url = {<Go to ISI>://WOS:000240901600130},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1294,
+   author = {Sun, G. L. and Jugessur, A. S. and Kirk, A. G.},
+   title = {Imaging properties of dielectric photonic crystal slabs for large object distances},
+   journal = {Optics Express},
+   volume = {14},
+   number = {15},
+   pages = {6755-6765},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.14.006755},
+   url = {<Go to ISI>://WOS:000239342300020},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1307,
+   author = {Sun, G. L. and Jugessur, A. S. and Kirk, A. G.},
+   title = {Saturated super-resolution imaging of photonic crystal with negative refraction},
+   journal = {2006 Optical Data Storage Topical Meeting, Conference Proceedings},
+   pages = {73-+},
+   DOI = {Doi 10.1109/Ods.2006.1632723},
+   url = {<Go to ISI>://WOS:000238327400025},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1308,
+   author = {Sun, G. L. and Jugessur, A. S. and Kirk, A. G.},
+   title = {Saturated super-resolution imaging of photonic crystal with negative refraction},
+   journal = {Optical Data Storage 2006},
+   volume = {6282},
+   ISSN = {0277-786x},
+   DOI = {Artn 62821v
+10.1117/12.685184},
+   url = {<Go to ISI>://WOS:000239926300042},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1303,
+   author = {Sun, G. L. and Kirk, A. G.},
+   title = {A highly sensitive index sensor based on attenuated total reflection inside a cavity},
+   journal = {2006 Ieee Leos Annual Meeting Conference Proceedings, Vols 1 and 2},
+   pages = {356-+},
+   ISSN = {1092-8081},
+   DOI = {Doi 10.1109/Leos.2006.279129},
+   url = {<Go to ISI>://WOS:000246167900180},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN1279,
+   author = {Sun, G. L. and Kirk, A. G.},
+   title = {Analyses of negative refraction in the partial bandgap of photonic crystals},
+   journal = {Optics Express},
+   volume = {16},
+   number = {6},
+   pages = {4330-4336},
+   ISSN = {1094-4087},
+   DOI = {Doi 10.1364/Oe.16.004330},
+   url = {<Go to ISI>://WOS:000254121400090},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1280,
+   author = {Sun, G. L. and Kirk, A. G.},
+   title = {Imaging of photonic crystal slabs with non-ideal effective refractive index},
+   journal = {Photonics North 2008},
+   volume = {7099},
+   ISSN = {0277-786x},
+   DOI = {Artn 70991b
+10.1117/12.807289},
+   url = {<Go to ISI>://WOS:000261333300046},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1337,
+   author = {Thomas-Dupuis, F. and Chateauneuf, M. and Kirk, A. G.},
+   title = {Design, implementation, and characterization of a folded spot-array generator for a modulator-based free-space optical interconnect},
+   journal = {Applied Optics},
+   volume = {42},
+   number = {27},
+   pages = {5399-5406},
+   ISSN = {1559-128x},
+   DOI = {Doi 10.1364/Ao.42.005399},
+   url = {<Go to ISI>://WOS:000185354800004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN1234,
+   author = {Tian, Z. B. and Bianucci, P. and Roche, P. J. R. and Dastjerdi, M. H. T. and Mi, Z. T. and Poole, P. J. and Kirk, A. G. and Plant, D. V.},
+   title = {Dynamical thermal effects in InGaAsP microtubes at telecom wavelengths},
+   journal = {Optics Letters},
+   volume = {37},
+   number = {13},
+   pages = {2712-2714},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.37.002712},
+   url = {<Go to ISI>://WOS:000306105800094},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1253,
+   author = {Tian, Z. B. and Veerasubramanian, V. and Bianucci, P. and Mi, Z. T. and Kirk, A. G. and Plant, D. V.},
+   title = {Characterization of InGaAs/GaAs microtubes at transparent wavelengths},
+   booktitle = {2011 Ieee Photonics Conference (Pho)},
+   pages = {745-746},
+   url = {<Go to ISI>://WOS:000299750700372},
+   type = {Conference Proceedings}
+}
+
+@article{RN1246,
+   author = {Tian, Z. B. and Veerasubramanian, V. and Bianucci, P. and Mi, Z. T. and Kirk, A. G. and Plant, D. V.},
+   title = {Selective polarization mode excitation in InGaAs/GaAs microtubes},
+   journal = {Optics Letters},
+   volume = {36},
+   number = {17},
+   pages = {3506-3508},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.36.003506},
+   url = {<Go to ISI>://WOS:000294667100068},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN1248,
+   author = {Tian, Z. B. and Veerasubramanian, V. and Bianucci, P. and Mukherjee, S. and Mi, Z. T. and Kirk, A. G. and Plant, D. V.},
+   title = {Single rolled-up InGaAs/GaAs quantum dot microtubes integrated with silicon-on-insulator waveguides},
+   journal = {Optics Express},
+   volume = {19},
+   number = {13},
+   pages = {12164-12171},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.19.012164},
+   url = {<Go to ISI>://WOS:000292867600028},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1198,
+   author = {Uchehara, G. and Kirk, A. G. and Trifiro, M. and Paliouras, M. and Mohammadyousef, P.},
+   title = {Real time label-free monitoring of plasmonic polymerase chain reaction products},
+   booktitle = {Nano-, Bio-, Info-Tech Sensors and 3d Systems Iii},
+   volume = {10969},
+   ISBN = {0277-786x},
+   DOI = {10.1117/12.2518295},
+   url = {<Go to ISI>://WOS:000483015800005},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN1256,
+   author = {Veerasubramanian, V. and Beaudin, G. and Giguere, A. and Le Drogoff, B. and Aimez, V. and Kirk, A. G.},
+   title = {Demonstration of waveguide-coupled sidewalled grating filters on SOI},
+   booktitle = {2011 Ieee Photonics Conference (Pho)},
+   pages = {597-+},
+   url = {<Go to ISI>://WOS:000299750700299},
+   type = {Conference Proceedings}
+}
+
+@article{RN1231,
+   author = {Veerasubramanian, V. and Beaudin, G. and Giguere, A. and Le Drogoff, B. and Aimez, V. and Kirk, A. G.},
+   title = {Design and Demonstration of Apodized Comb Filters on SOI},
+   journal = {Ieee Photonics Journal},
+   volume = {4},
+   number = {4},
+   ISSN = {1943-0655},
+   DOI = {10.1109/Jphot.2012.2204971},
+   url = {<Go to ISI>://WOS:000306184600001},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN1233,
+   author = {Veerasubramanian, V. and Beaudin, G. and Giguere, A. and Le Drogoff, B. and Aimez, V. and Kirk, A. G.},
+   title = {Waveguide-coupled drop filters on SOI using quarter-wave shifted sidewalled grating resonators},
+   journal = {Optics Express},
+   volume = {20},
+   number = {14},
+   pages = {15983-15990},
+   ISSN = {1094-4087},
+   DOI = {10.1364/Oe.20.015983},
+   url = {<Go to ISI>://WOS:000306176100128},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1258,
+   author = {Veerasubramanian, V. and Beaudin, G. and Giguere, A. and LeDrogoff, B. and Aimez, V. and Kirk, A. G.},
+   title = {A Vertical SG-DBR Based Tunable Hybrid Silicon Evanescent Laser},
+   booktitle = {2011 Conference on Lasers and Electro-Optics (Cleo)},
+   ISBN = {2160-9020},
+   url = {<Go to ISI>://WOS:000295612402444},
+   type = {Conference Proceedings}
+}
+
+@article{RN1268,
+   author = {Veerasubramanian, V. and Kirk, A. G. and Beaudin, G. and Giguere, A. and LeDrogoff, B. and Aimez, V.},
+   title = {Waveguide Coupled Drop Filters on SOI using Vertical Sidewalled Grating Resonators},
+   journal = {2010 23rd Annual Meeting of the Ieee Photonics Society},
+   pages = {634-+},
+   DOI = {Doi 10.1109/Photonics.2010.5699047},
+   url = {<Go to ISI>://WOS:000287997500319},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1325,
+   author = {Wen, J. and Hoa, X. D. and Kirk, A. G. and Lowther, D. A.},
+   title = {Analysis of the performance of a MEMS micromirror},
+   journal = {Ieee Transactions on Magnetics},
+   volume = {40},
+   number = {2},
+   pages = {1410-1413},
+   ISSN = {0018-9464},
+   DOI = {10.1109/Tmag.2004.824563},
+   url = {<Go to ISI>://WOS:000220884000220},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN1371,
+   author = {Xue, X. and Kirk, A. G.},
+   title = {On the methods for estimating beam parameters of super-imposed Hermite-Gaussian modes},
+   journal = {Optics in Computing 2000},
+   volume = {4089},
+   pages = {829-835},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.386773},
+   url = {<Go to ISI>://WOS:000088745400108},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1366,
+   author = {Xue, X. and Kirk, A. G.},
+   title = {Transverse modal characterization of VCSELs based on intensity measurement},
+   journal = {Optoelectronic Interconnects Vii; Photonics Packaging and Integration Ii},
+   volume = {3952},
+   pages = {144-153},
+   ISSN = {0277-786x},
+   DOI = {Doi 10.1117/12.384393},
+   url = {<Go to ISI>://WOS:000087646400015},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1356,
+   author = {Xue, X. and Wei, H. Q. and Kirk, A. G.},
+   title = {Intensity-based modal decomposition of optical beams in terms of Hermite-Gaussian functions},
+   journal = {Journal of the Optical Society of America a-Optics Image Science and Vision},
+   volume = {17},
+   number = {6},
+   pages = {1086-1091},
+   ISSN = {1084-7529},
+   DOI = {Doi 10.1364/Josaa.17.001086},
+   url = {<Go to ISI>://WOS:000087327700016},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN1348,
+   author = {Xue, X. and Wei, H. Q. and Kirk, A. G.},
+   title = {Beam analysis by fractional Fourier transform},
+   journal = {Optics Letters},
+   volume = {26},
+   number = {22},
+   pages = {1746-1748},
+   ISSN = {0146-9592},
+   DOI = {Doi 10.1364/Ol.26.001746},
+   url = {<Go to ISI>://WOS:000172175300002},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1219,
+   author = {Zhang, Y. P. and Allahverdyan, K. and Morse, T. and Chodavarapu, V. P. and Kirk, A. G. and Galstian, T. and Andrews, M. P.},
+   title = {Nanocrystalline cellulose for optical encryption},
+   booktitle = {Nanostructured Thin Films Vii},
+   volume = {9172},
+   ISBN = {0277-786x},
+   DOI = {Artn 91720r
+10.1117/12.2062974},
+   url = {<Go to ISI>://WOS:000354523500021},
+   type = {Conference Proceedings}
+}
+
+@article{RN1232,
+   author = {Zhang, Y. P. and Chodavarapu, V. P. and Kirk, A. G. and Andrews, M. P.},
+   title = {Nanocrystalline cellulose for covert optical encryption},
+   journal = {Journal of Nanophotonics},
+   volume = {6},
+   ISSN = {1934-2608},
+   DOI = {Artn 063516
+10.1117/1.Jnp.6.063516},
+   url = {<Go to ISI>://WOS:000315202500001},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1238,
+   author = {Zhang, Y. P. and Chodavarapu, V. P. and Kirk, A. G. and Andrews, M. P.},
+   title = {Nanocrystalline cellulose for covert optical encryption},
+   booktitle = {Organic Photonic Materials and Devices Xiv},
+   volume = {8258},
+   ISBN = {0277-786x},
+   DOI = {Unsp 825808
+10.1117/12.906770},
+   url = {<Go to ISI>://WOS:000302548700002},
+   type = {Conference Proceedings}
+}
+
+@article{RN1224,
+   author = {Zhang, Y. P. and Chodavarapu, V. P. and Kirk, A. G. and Andrews, M. P.},
+   title = {Structured color humidity indicator from reversible pitch tuning in self-assembled nanocrystalline cellulose films},
+   journal = {Sensors and Actuators B-Chemical},
+   volume = {176},
+   pages = {692-697},
+   ISSN = {0925-4005},
+   DOI = {10.1016/j.snb.2012.09.100},
+   url = {<Go to ISI>://WOS:000319867500094},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@inproceedings{RN1251,
+   author = {Zhang, Y. P. and Chodavarapu, V. P. and Kirk, A. G. and Andrews, M. P. and Carluer, M. and Picard, G.},
+   title = {Origin of iridescence in chiral nematic phase nanocrystalline cellulose for encryption and enhanced color},
+   booktitle = {Emerging Liquid Crystal Technologies Vi},
+   volume = {7955},
+   ISBN = {0277-786x},
+   DOI = {Unsp 79550v
+10.1117/12.881492},
+   url = {<Go to ISI>://WOS:000294045700022},
+   type = {Conference Proceedings}
+}
+
